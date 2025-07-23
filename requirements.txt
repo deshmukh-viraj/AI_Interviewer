@@ -3,3 +3,5 @@ autogen-agentchat
 autogen-ext
 dotenv
 pydantic
+openai
+tiktoken
